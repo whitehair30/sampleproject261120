@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MVCReact2/node_modules
+/MVCReact2/obj
+/MVCReact2/bin/Debug/netcoreapp3.1
